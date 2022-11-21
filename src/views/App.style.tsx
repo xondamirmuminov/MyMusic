@@ -98,7 +98,6 @@ export const StyledApp = styled.main `
 
   /* ---- Collapsed screen ----- */
   .ant-layout-sider-collapsed + #main {
-    background-color: #fff;
     padding-left: ${pxToRem(80)};
   }
   .ant-layout-sider-collapsed .profile h4 {
